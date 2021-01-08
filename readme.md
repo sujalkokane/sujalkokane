@@ -1,6 +1,6 @@
 ### Hi there, I'm Sujal Kokane 👋
 
-## I'm Newbie in this world.  :baby:
+## I'm Newbie in world of coding.  :baby:
 
 -  :snake: Pythonist
 - 🌱 Trying my hands on Web Development
